@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anik Chowdhury alias Anik</h1>
 <h3 align="center">A passionate coder who loves to build projects</h3>
-<h3 align="left">Data Science || Machine Learning || Deep Learning || Image Processing|| SVM/h3>
+<h3 align="center">Data Science || Machine Learning || Deep Learning || Image Processing|| SVM/h3>
 <img align="right" alt="Code" width="500px" src="https://github.com/Anik1nonly007/Anik1nonly007/blob/main/code%20(2).jpg"/>
 <h3 align="left"🔭 I’m currently learning & working on Data Science , Machine Learning, Deep Learning , Image Processing and SVM.</h3>
 <h4 align="left">Hey 👋 wanna connect!<img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px"></h4> <br>

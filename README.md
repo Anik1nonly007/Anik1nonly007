@@ -13,7 +13,7 @@ Here are some ideas to get you started:
  <details> <summary> 📫 How to reach me :</summary><a href="mailto:chowdhurydiptho@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="22px"/> </a>
 </details>
 <h3 align="left"🔭 I’m currently learning & working on Data Science , Machine Learning, Deep Learning , Image Processing and SVM.</h3>
-<h4 align="left">Hey 👋 wanna connect!<img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px"></h4> <br>
+<h4 align="left">Hey 👋 wanna connect!<img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px"></h4> 
 <p align="left">
 <a href="https://twitter.com/AnikJassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniktweets" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anik-chowdhury-356817136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anik" height="30" width="40" /></a>

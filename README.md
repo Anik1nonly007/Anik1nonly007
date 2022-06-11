@@ -29,7 +29,7 @@ width="50" height="40" />
 "width="40" height="40">
   
 </p>
-<img align="right" alt="Code" width="500px" src="https://github.com/Anik1nonly007/Anik1nonly007/blob/main/mostUsedLang.svg"/>
+<img align="left" alt="Code" width="500px" src="https://github.com/Anik1nonly007/Anik1nonly007/blob/main/mostUsedLang.svg"/>
   
  
 

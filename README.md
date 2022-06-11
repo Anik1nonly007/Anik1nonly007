@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <h2 align="left">🚀 Languages and Tools:</h2>
 <p align="left">
   <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://en.wikipedia.org/wiki/Java_%28programming_language%29#/media/File:Java_programming_language_logo.svg" alt="java" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="java" width="40" height="40"/> 
   <img src="https://en.wikipedia.org/wiki/Linux#/media/File:Tux.svg" alt="linux" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img alt="powerBI"  src="https://user-images.githubusercontent.com/93881696/173186582-6661b493-747d-40b0-a573-9706ba119ed8.png

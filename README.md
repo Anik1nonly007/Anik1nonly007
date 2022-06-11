@@ -2,6 +2,14 @@
 <h1 align="center">Hi 👋, I'm Anik Chowdhury alias Anik</h1>
 <h3 align="center">A passionate coder who loves to build projects</h3>
 <h3 align="center">Data Science || Machine Learning || Deep Learning || Image Processing|| SVM</h3>
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Data Science, Machine Learning
+- 🌱 I’m currently self learning Data Science , Machine Learning, Deep Learning, Image Processing, SVM, Power BI
+- 👯 I’m looking to collaborate with another fresher to work on End to End Project.
+- 💬 Ask me about anything related to Data science ,  Machine Learning, Deep Learning or Programming will try my best to answer.
+- 😄 I am Completed my graduation from AIUB in Computer Science and Engineering(CSE).
+
  <details> <summary> 📫 How to reach me :</summary><a href="mailto:chowdhurydiptho@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="22px"/> </a>
 </details>
 <h3 align="left"🔭 I’m currently learning & working on Data Science , Machine Learning, Deep Learning , Image Processing and SVM.</h3>

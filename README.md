@@ -18,6 +18,16 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/AnikJassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniktweets" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anik-chowdhury-356817136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anik" height="30" width="40" /></a>
   <h2 align="left">🚀 Languages and Tools:</h2>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img src="ttps://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://en.wikipedia.org/wiki/Java_%28programming_language%29#/media/File:Java_programming_language_logo.svg" alt="java" width="40" height="40"/> 
+  <img src="https://en.wikipedia.org/wiki/Linux#/media/File:Tux.svg" alt="linux" width="40" height="40"/>
+  <img alt="powerBI"  src="https://user-images.githubusercontent.com/93881696/173186582-6661b493-747d-40b0-a573-9706ba119ed8.png
+"width="50" height="40" /> 
+  <img alt="jupiter"  src="https://user-images.githubusercontent.com/93881696/173186689-1d1d1747-b500-40e0-af97-9434371e6ec0.png 
+"width="40" height="40">
+  
+</p>
   
  
 

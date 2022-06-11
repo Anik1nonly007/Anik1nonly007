@@ -23,8 +23,8 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="java" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img alt="powerBI"  src="https://user-images.githubusercontent.com/93881696/173186582-6661b493-747d-40b0-a573-9706ba119ed8.png
-"width="50" height="40" /> 
+  <img alt="powerBI"  src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
+width="50" height="40" /> 
   <img alt="jupiter"  src="https://user-images.githubusercontent.com/93881696/173186689-1d1d1747-b500-40e0-af97-9434371e6ec0.png"
 "width="40" height="40">
   

@@ -1,4 +1,4 @@
-<img align="right" alt="Code" width="500px" src="https://github.com/Anik1nonly007/Anik1nonly007/blob/main/code%20(2).jpg"/>
+<img align="right" alt="Code" width="400px" src="https://github.com/Anik1nonly007/Anik1nonly007/blob/main/code%20(2).jpg"/>
 <h1 align="center">Hi 👋, I'm Anik Chowdhury alias Anik</h1>
 <h3 align="center">A passionate coder who loves to build projects</h3>
 <h3 align="center">Data Science || Machine Learning || Deep Learning || Image Processing|| SVM</h3>
